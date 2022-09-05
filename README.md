@@ -10,6 +10,8 @@ Now,
 https://youtu.be/WAStJtjYI_c
 Now, 
 you can use twither as you want you can see other members post you also can post anything on it also you can delete that post if you want
+![image](https://user-images.githubusercontent.com/69347014/188485007-c6bf539f-5f27-4434-8b35-d4fcb4ce454f.png)
+
 But,
 **To MAKE A POST OR DELETE A POST**
 You will need some gas amount of ethers to make and to delete a post. We have used 'RINKEBY TEST NETWORK' you also can use that test network, add some fake ethers on your metamask wallet and make posts on twither. You can search on youTube or google that how to add fake ethers on metamask you will surely do this easily.
