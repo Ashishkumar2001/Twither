@@ -8,7 +8,7 @@ Click on the link:- https://twither.netlify.app you will go to the website
 <br /><br />
 Now,
 <br /><br />
-**<h3>if you have installed METAMASK then you will get the below screen</h3>**
+**<h3>If you have installed METAMASK then you will get the below screen</h3>**
 <br /><br />
 ![image](https://user-images.githubusercontent.com/69347014/188481290-b2846056-a214-49b9-b59f-4de6597383b5.png)
 <br /><br />
@@ -25,7 +25,7 @@ you can use twither as you want you can see other members post you also can post
 <br /><br />
 But,
 <br />
-**<h3>To MAKE A POST OR DELETE A POST</h3>**
+**<h3>TO MAKE A POST OR DELETE A POST</h3>**
 <br /><br />
 You will need some gas amount of ethers to make and to delete a post. We have used 'RINKEBY TEST NETWORK' you also can use that test network, add some fake ethers on your metamask wallet and make posts on twither. You can search on youTube or google that how to add fake ethers on metamask you will surely do this easily.
 <br /><br />
