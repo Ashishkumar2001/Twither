@@ -31,7 +31,9 @@ You will need some gas amount of ethers to make and to delete a post. We have us
 <br /><br />
 **<h3>If you find any trouble on above steps then contact us on LinkedIn only</h3>**
 Aarushi Nayan:- https://www.linkedin.com/in/aarushi-nayan-58b1011ba/
+<br />
 Charu Mangla:- https://www.linkedin.com/in/charu-mangla-8a87451b4/
+<br />
 Ashish Kumar:- https://www.linkedin.com/in/ashish-kumar-47b7721b6/
 <br /><br />
 **<h3>REQUEST</h3>**
