@@ -20,7 +20,7 @@ Now,
 <br /><br />
 you can use twither as you want you can see other members post you also can post anything on it also you can delete that post if you want
 <br /><br />
-![image](https://user-images.githubusercontent.com/69347014/188486454-e3ec9dad-c9fa-4459-a6a6-152058aff41d.png)
+![image](https://user-images.githubusercontent.com/69347014/188498182-3fa37e43-2932-4b30-8c12-73b0ae420ec7.png)
 
 <br /><br />
 But,
