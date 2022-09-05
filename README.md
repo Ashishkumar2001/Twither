@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+**Hey welcome to our 'Twither Decentralized Application'**
+As we mention in our description that it is a blockchain based decentralized application so their is no login required so no third party can have your login details.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**HOW TO USE THIS APP:- **
+Click on the link:- https://twither.netlify.app you will go to the website
+Now,
+**if you have installed METAMASK then you will get the below screen**
+![image](https://user-images.githubusercontent.com/69347014/188481290-b2846056-a214-49b9-b59f-4de6597383b5.png)
+**if you have not installed METAMASK then you will need to make account on metamask only then you can use Twither. We are sharing a link below from their you can make your metamask wallet**
+https://youtu.be/WAStJtjYI_c
+Now, 
+you can use twither as you want you can see other members post you also can post anything on it also you can delete that post if you want
+But,
+**To MAKE A POST OR DELETE A POST**
+You will need some gas amount of ethers to make and to delete a post. We have used 'RINKEBY TEST NETWORK' you also can use that test network, add some fake ethers on your metamask wallet and make posts on twither. You can search on youTube or google that how to add fake ethers on metamask you will surely do this easily.
 
-## Available Scripts
+**If you find any trouble on above steps then contact us on LinkedIn only**
+Aarushi Nayan:- https://www.linkedin.com/in/aarushi-nayan-58b1011ba/
+Charu Mangla:- https://www.linkedin.com/in/charu-mangla-8a87451b4/
+Ashish Kumar:- https://www.linkedin.com/in/ashish-kumar-47b7721b6/
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**REQUEST**
+We request to you that please do not post anything wrong or abusive.
